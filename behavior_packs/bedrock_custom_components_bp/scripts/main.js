@@ -17,3 +17,5 @@
 // Build-Trace #8: min_engine_version auf 1.18.0 angehoben
 
 // Build-Trace #9: Kombinationsschloss bitweise Auswertung
+
+// Build-Trace #10: auf lokaler Testwelt ausprobiert
