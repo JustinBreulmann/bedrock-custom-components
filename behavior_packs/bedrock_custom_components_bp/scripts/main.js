@@ -19,3 +19,5 @@
 // Build-Trace #9: Kombinationsschloss bitweise Auswertung
 
 // Build-Trace #10: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #11: Code aufgeräumt
