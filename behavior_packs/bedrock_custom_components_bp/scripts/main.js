@@ -21,3 +21,5 @@
 // Build-Trace #10: auf lokaler Testwelt ausprobiert
 
 // Build-Trace #11: Code aufgeräumt
+
+// Build-Trace #12: WIP
