@@ -23,3 +23,5 @@
 // Build-Trace #11: Code aufgeräumt
 
 // Build-Trace #12: WIP
+
+// Build-Trace #13: Formatierung und Kommentare angepasst
