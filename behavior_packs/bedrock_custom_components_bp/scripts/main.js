@@ -25,3 +25,5 @@
 // Build-Trace #12: WIP
 
 // Build-Trace #13: Formatierung und Kommentare angepasst
+
+// Build-Trace #14: console.log entfernt
