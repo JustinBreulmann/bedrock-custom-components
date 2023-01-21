@@ -27,3 +27,5 @@
 // Build-Trace #13: Formatierung und Kommentare angepasst
 
 // Build-Trace #14: console.log entfernt
+
+// Build-Trace #16: Imports bereinigt
