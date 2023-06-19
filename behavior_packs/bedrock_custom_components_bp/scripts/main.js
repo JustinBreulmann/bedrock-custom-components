@@ -33,3 +33,5 @@
 // Build-Trace #17: Open_bit Tür Öffnen/Schließen Komponente
 
 // Build-Trace #18: kleiner Fix
+
+// Build-Trace #19: mit mehreren Spielern getestet
