@@ -35,3 +35,5 @@
 // Build-Trace #18: kleiner Fix
 
 // Build-Trace #19: mit mehreren Spielern getestet
+
+// Build-Trace #20: Werte feinjustiert
