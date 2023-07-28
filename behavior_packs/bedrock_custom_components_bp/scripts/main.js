@@ -37,3 +37,5 @@
 // Build-Trace #19: mit mehreren Spielern getestet
 
 // Build-Trace #20: Werte feinjustiert
+
+// Build-Trace #21: Schwamm setzt Blockfarbe wieder auf Standard zurück
