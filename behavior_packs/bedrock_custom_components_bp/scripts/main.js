@@ -41,3 +41,5 @@
 // Build-Trace #21: Schwamm setzt Blockfarbe wieder auf Standard zurück
 
 // Build-Trace #22: Animations-Controller Trigger für Blöcke
+
+// Build-Trace #24: Prüfung auf undefined hinzugefügt
