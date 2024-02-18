@@ -43,3 +43,5 @@
 // Build-Trace #22: Animations-Controller Trigger für Blöcke
 
 // Build-Trace #24: Prüfung auf undefined hinzugefügt
+
+// Build-Trace #25: Null-Prüfung für itemStack in use.js gefixt
