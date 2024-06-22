@@ -45,3 +45,5 @@
 // Build-Trace #24: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #25: Null-Prüfung für itemStack in use.js gefixt
+
+// Build-Trace #26: im Spiel getestet, läuft super
