@@ -49,3 +49,5 @@
 // Build-Trace #26: im Spiel getestet, läuft super
 
 // Build-Trace #27: Cooldown angepasst
+
+// Build-Trace #29: ups, das korrigiert
