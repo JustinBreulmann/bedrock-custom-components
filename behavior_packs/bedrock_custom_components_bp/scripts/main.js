@@ -57,3 +57,5 @@
 // Build-Trace #31: Färbekomponente: Blöcke mit 16 Minecraft-Farben dynamisch einfärben
 
 // Build-Trace #32: Datei neu formatiert
+
+// Build-Trace #33: Hilfsfunktion refaktoriert
