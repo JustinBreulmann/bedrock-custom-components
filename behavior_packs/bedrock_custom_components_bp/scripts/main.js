@@ -61,3 +61,5 @@
 // Build-Trace #33: Hilfsfunktion refaktoriert
 
 // Build-Trace #34: README Notizen aktualisiert
+
+// Build-Trace #36: Randfall abgefangen
