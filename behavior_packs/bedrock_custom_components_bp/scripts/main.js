@@ -63,3 +63,5 @@
 // Build-Trace #34: README Notizen aktualisiert
 
 // Build-Trace #36: Randfall abgefangen
+
+// Build-Trace #37: Entity bei Block-Interaktion spawnen
