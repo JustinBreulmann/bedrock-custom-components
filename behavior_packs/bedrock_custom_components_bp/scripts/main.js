@@ -65,3 +65,5 @@
 // Build-Trace #36: Randfall abgefangen
 
 // Build-Trace #37: Entity bei Block-Interaktion spawnen
+
+// Build-Trace #38: kleine Performance-Optimierung im Tick-Loop
