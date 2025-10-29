@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock Custom Components | RP",
+    "description": "Custom block/item interaction components, 16-color dynamic block dyeing, animation triggers, combination locks, and water/fire mechanics",
+    "uuid": "55734e4b-bfba-4c1e-bd25-a2c18e90a4a4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "15551a45-866d-406f-93f1-2f7f41233b64",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "88ec4349-6dae-4779-8301-4e935f78cdb0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
