@@ -13,3 +13,5 @@ import "./component/getItem.js";
 console.warn("[Bedrock Custom Components] Komponenten und Farbwechsler registriert.");
 
 // Build-Trace #41: im Spiel getestet, läuft super
+
+// Build-Trace #42: mit mehreren Spielern getestet
