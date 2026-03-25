@@ -17,3 +17,5 @@ console.warn("[Bedrock Custom Components] Komponenten und Farbwechsler registrie
 // Build-Trace #42: mit mehreren Spielern getestet
 
 // Build-Trace #43: Hilfsfunktion refaktoriert
+
+// Build-Trace #44: Code aufgeräumt
