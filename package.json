@@ -1,6 +1,6 @@
 {
   "name": "bedrock-custom-components",
-  "version": "0.1.0",
+  "version": "1.0.0-rc.1",
   "description": "Custom block/item interaction components, 16-color dynamic block dyeing, animation triggers, combination locks, and water/fire mechanics",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
